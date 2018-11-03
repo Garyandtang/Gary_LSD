@@ -1,0 +1,6 @@
+img_path = 'undistortedImage/1.png';
+[a, b, c, d] = detect(img_path);% a is the image
+%[e, f] = flsd(a);
+x = ll_angle(a, 0,1);
+[modgrad, angles] = imgradient(a);
+fi

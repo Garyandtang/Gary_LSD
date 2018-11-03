@@ -1,0 +1,49 @@
+% 
+% max_grad = max(max(modgrad));
+% [height, width, dim] = size(modgrad);
+% n_bins = 1024;
+% count = 1;
+% if max_grad > 0
+%     bin_coef = (n_bins - 1) / max_grad;
+% else
+%     bin_coef = 0;
+% end
+% unsorted_list = zeros(height*width,3);
+% for y = 1 : height -1
+%     for x = 1 : width -1
+%         i = modgrad(y, x) * bin_coef;
+%         unsorted_list(count, 1) = x;
+%         unsorted_list(count, 2) = y;
+%         unsorted_list(count, 3) = i;
+%         count= count+1;
+%     end
+% end
+% clear;
+% a = zeros(1,2);
+% a_size = size(a);
+% i = 1;
+% x =1;
+% while i <= a_size(1,1)
+%     if  x <= 10
+%         b = [1,2];
+%         a = [a;b];
+%         a_size = size(a);
+%     end
+%     x = x+1;
+%     i = i+1;
+% end
+a = 1;
+i =1;
+while 1 <=10
+    if i
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
