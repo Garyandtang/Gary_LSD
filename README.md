@@ -1,7 +1,7 @@
 # Gary_LSD
 The Matlab implementation of Line Segment Detector. Most implementations are based on the standard LSD function in Opencv. For the special need, we merge the short line segments to long line segments.
 
-* [Line Segment Detector](http://www.ipol.im/pub/art/2012/gjmr-lsd/) is a fast and robust algorithm to extract lines segments in images. The details of LSD is shown in this [paper](http://www.ipol.im/pub/art/2012/gjmr-lsd/article.pdf)
+* [Line Segment Detector](http://www.ipol.im/pub/art/2012/gjmr-lsd/) is a fast and robust algorithm to extract lines segments in images. The details of LSD is shown in this [paper](http://www.ipol.im/pub/art/2012/gjmr-lsd/article.pdf).
 
 ## Some Descriptions
 * Matlab version: Matlab R2017b or above.
@@ -11,7 +11,7 @@ Just download the whole repo and run:
 ```
 >> test_all_image
 ```
-The images with merged line segments will shown to you, if you want to get the results with unmerged line segments, just replace code in line 51
+The images with merged line segments will shown to you, if you want to get the results with unmerged line segments, just replace code in line 51 of test_all_image.m.
 ```
  line = fusion_lines; 
 ```
