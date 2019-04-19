@@ -20,11 +20,11 @@ to
 line = lines_list;
 ```
 Most parameters on LSD are in flsd.m, and most parameters on line merging are in mergeLine.m. I did not find a good way to orginize the code of this project, if you find any bug, error, strange result, or you have a good way to improve the organization of the code, please don't hesitate to let me know. Let us contribute this project together.
-## Visual Rhesitateesult
+## Visual Result
 The upper one is the image with merged line segements and the below one is the image with unmerged line segements.
 <p align="center">
-  <img src="https://github.com/Garyandtang/Gary_LSD/blob/master/code/lsd_result.png" height="300">
-  <img src="https://github.com/Garyandtang/Gary_LSD/blob/master/code/lsd_result.png" height="300">
+  <img src="https://github.com/Garyandtang/Gary_LSD/blob/master/code/merged_result.png" height="300">
+  <img src="https://github.com/Garyandtang/Gary_LSD/blob/master/code/merged_result.png" height="300">
 </p>
 
 ## Reference
