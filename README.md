@@ -24,7 +24,7 @@ Most parameters on LSD are in flsd.m, and most parameters on line merging are in
 The upper one is the image with merged line segements and the below one is the image with unmerged line segements.
 <p align="center">
   <img src="https://github.com/Garyandtang/Gary_LSD/blob/master/code/merged_result.png" height="300">
-  <img src="https://github.com/Garyandtang/Gary_LSD/blob/master/code/merged_result.png" height="300">
+  <img src="https://github.com/Garyandtang/Gary_LSD/blob/master/code/lsd_result.png" height="300">
 </p>
 
 ## Reference
