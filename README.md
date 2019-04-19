@@ -23,10 +23,10 @@ Most parameters on LSD are in flsd.m, and most parameters on line merging are in
 ## Visual Result
 The upper one is the image with merged line segements and the below one is the image with unmerged line segements.
 <p align="center">
-  <img src="https://github.com/Garyandtang/Gary_LSD/blob/master/code/merged_result.png" height="300">
-  <img src="https://github.com/Garyandtang/Gary_LSD/blob/master/code/lsd_result.png" height="300">
+  <img src="https://github.com/Garyandtang/Gary_LSD/blob/master/code/merged_result.png" height="500">
+  <img src="https://github.com/Garyandtang/Gary_LSD/blob/master/code/lsd_result.png" height="500">
 </p>
 
 ## Reference
-Special thanks for:
+Special thanks to:
 * theWorldCreator: https://github.com/theWorldCreator/LSD for the c implementation of the Line Segment Detector.
